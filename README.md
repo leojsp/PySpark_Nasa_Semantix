@@ -2,6 +2,10 @@
   Consultas:   - https://techvidvan.com/tutorials/
                - http://spark.apache.org/docs/latest/rdd-programming-guide.html#transformations\n
                - https://data-flair.training/blogs/spark-tutorials-home/
+               
+               Base de dados
+                - ftp://ita.ee.lbl.gov/traces/NASA_access_log_Jul95.gz
+                - ftp://ita.ee.lbl.gov/traces/NASA_access_log_Aug95.gz
 
 - Qual o objetivo do comando cache em Spark?
 R: Ao realizar ações, são gerados processos de computação de dados, mas podemos persistir os dados em CACHE para ser usado em outras ações,
