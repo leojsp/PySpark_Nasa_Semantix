@@ -1,7 +1,7 @@
 # PySpark_Nasa_Semantix - 
-  Consultas => https://techvidvan.com/tutorials/
-               http://spark.apache.org/docs/latest/rdd-programming-guide.html#transformations\n
-               https://data-flair.training/blogs/spark-tutorials-home/
+  Consultas:   - https://techvidvan.com/tutorials/
+               - http://spark.apache.org/docs/latest/rdd-programming-guide.html#transformations\n
+               - https://data-flair.training/blogs/spark-tutorials-home/
 
 - Qual o objetivo do comando cache em Spark?
 R: Ao realizar ações, são gerados processos de computação de dados, mas podemos persistir os dados em CACHE para ser usado em outras ações,
